@@ -1,2 +1,2 @@
 # Linear-Regression-using-the-Pseudoinverse-Matrix
-The pseudoinverse matrix is the mathematical tool to use to find the best approximated solution to system of linear equations without a solution.
+La matrice pseudoinversa è l'oggetto matematico usato per trovare la migliore soluzione approssimata a sistemi di equazioni lineari senza una soluzione, si usa per la regressione (fit) lineare.
